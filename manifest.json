@@ -16,7 +16,7 @@
       }
     ],
     "orientation": "any",
-    "start_url": "/",
+    "start_url": "https://arshankn.github.io/tvMaze/",
     "scope": "/",
     "display": "standalone",
     "dir": "auto",
